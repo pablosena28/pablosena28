@@ -33,7 +33,7 @@ Atuo com análise de dados aplicada a pesquisa, políticas públicas, educação
 ### AWS
 
 <a href="https://www.credly.com/badges/528d0214-59f6-4ff3-bd40-2f6a4002c6ac/public_url">
-  <img src="./assets/aws-re-start-graduate.png" width="115" alt="AWS re/Start Graduate">
+  <img src="https://images.credly.com/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" width="115" alt="AWS re/Start Graduate">
 </a>
 
 **AWS re/Start Graduate**  
