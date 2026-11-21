@@ -28,6 +28,25 @@ Atuo com análise de dados aplicada a pesquisa, políticas públicas, educação
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
+## Statistics
+
+<div align="center">
+  <a href="https://github.com/pablosena28">
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablosena28&layout=compact&langs_count=8&theme=transparent"
+      alt="Linguagens mais usadas por Pablo Sena"
+    />
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=pablosena28&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"
+      alt="Estatísticas do GitHub de Pablo Sena"
+    />
+  </a>
+</div>
+
+<sub>As linguagens exibidas refletem o volume de código nos repositórios públicos analisados pelo serviço e não representam, por si só, nível de proficiência.</sub>
+
 ## Credentials & Achievements
 
 ### AWS
